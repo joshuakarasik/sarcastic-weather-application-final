@@ -1,6 +1,4 @@
-# WeatherApp
-
-![WeatherApp Logo](path-to-your-logo.png)
+# Sarcastic Weather App
 
 **WeatherApp** is a dynamic and user-friendly weather forecasting application built with React and Tailwind CSS. It provides real-time weather information, a 5-day forecast, and a touch of humor through sarcastic comments based on current weather conditions. Users can search for cities, use their current location, toggle between temperature units, and manage their favorite locations with ease.
 
